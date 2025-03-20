@@ -1,1 +1,1 @@
-
+Use the dry beans data and perform PCA/LDA analysis with Logistic Regression and one other model type of your choosing.  The dry beans data is in the data module.  Produce accuracy charts and demonstrate the reduction in feature space by using this technique and its effect on accuracy.
